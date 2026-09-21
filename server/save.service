@@ -1,0 +1,21 @@
+[Unit]
+Description=transformer_blog 个人网站后端（读写 assets/data 下的 JSON）
+After=network.target
+
+[Service]
+Type=simple
+User=root
+
+WorkingDirectory=/opt/transformer_blog
+
+ExecStart=/opt/transformer_blog/server/transformer_blog-server --data-dir assets/data --host 127.0.0.1 --port 8090
+
+Restart=on-failure
+RestartSec=2
+
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1789936366349000",
+    "title": "最初的开始, “Hello World!”",
+    "summary": "这个博客的第一篇文章！万物起源Hello World!",
+    "date": "2026-09-21",
+    "content": "这是一个示例文章 ## 技术栈\n - 前端：Flutter Web，纯静态，托管在哪里都行\n\n## 始于 Hello World，从 Hello World 开始。\n```\n// cpp\n#include <stdio.h>\n\nmain () {\nprintf(\"Hello World!\\n\");\n}\n```\n\n```\n// Java\npublic class hello{\n    public static void Main(String[] args){\n        System.out.println(\"Hello World!\");\n    }\n}\n```\n\n```\n# Python\nprint(\"Hello World!\\n\");\n```\n\n```\n// Rust\nprintln!(\"Hello World!\\n\");\n```\n\n```\n// JavaScript\nconsole.log(\"Hello World\");\n```\n\n```\n<!-- HTML -->\n<h1>Hello World!</h1>\n```\n\n```\n// Dart\nText(\"Hello World!\");\n``` \n *Copyright © alittleshark-dev*",
+    "tags": [
+      "hello_world"
+    ]
+  }
+]

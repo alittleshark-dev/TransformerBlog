@@ -1,0 +1,25 @@
+{
+  "siteTitle": "网站标题 | Web Title",
+  "name": "Your Name",
+  "tagline": "description",
+  "avatar": "",
+  "favicon": "",
+  "links": [
+    {
+      "label": "Github",
+      "value": "XXXXX",
+      "url": "https://github.com/XXXXX"
+    },
+    {
+      "label": "Facebook",
+      "value": "https://facebook.com/XXX"
+    },
+    {
+      "label": "Email",
+      "value": "XXXX@example.com",
+      "url": "mailto:XXXX@example.com"
+    }
+  ],
+  "footer": "© 2026 XXX. All rights reserved.",
+  "editPassword": "123456"
+}
