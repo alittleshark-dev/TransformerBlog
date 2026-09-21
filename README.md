@@ -192,3 +192,6 @@ echo "[+] 部署完成！博客地址: http://$DOMAIN"
 - **禁止闭源倒卖**：禁止将本项目修改后作为闭源付费项目售卖
 
 完整开源协议详情请查看项目根目录 `LICENSE` 文件。
+
+---
+*Copyright © alittleshark-dev 2026*
